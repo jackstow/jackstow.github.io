@@ -1,0 +1,13 @@
+body {
+    color: #fff;
+    background-color: #000;
+    background-image: url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.img-border {
+    border: 5px solid #fff;
+}
