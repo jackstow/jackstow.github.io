@@ -11,3 +11,17 @@ body {
 .img-border {
     border: 5px solid #fff;
 }
+
+a.whitelink:link, a.whitelink:visited, a.whitelink:active {
+    color: #fff;
+    font: bold;
+    text-decoration: underline;
+}
+
+a.whitelink:hover {
+    text-decoration: none;
+}
+
+.panel-black {
+    color: #000;
+}
